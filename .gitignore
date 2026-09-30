@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+examples/*.json
+examples/ventas_sos/
+
+# Datos de clientes / bancos (no subir)
+inft_*.json
+examples/*.csv
+.venv/
