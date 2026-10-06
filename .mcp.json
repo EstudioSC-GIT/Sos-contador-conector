@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "sos-contador": {
+      "command": "C:\\Users\\euge1\\AppData\\Local\\Programs\\Python\\Python312\\python.exe",
+      "args": ["C:\\Users\\euge1\\OneDrive\\Escritorio\\sos-contador-connector\\mcp_server.py"]
+    }
+  }
+}
